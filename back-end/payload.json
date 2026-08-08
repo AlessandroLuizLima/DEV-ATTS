@@ -1,0 +1,7 @@
+{
+    "evento": "teste_webhook",
+    "timestamp": "2026-08-08T19:30:00Z",
+    "dados": {
+      "mensagem": "Payload de teste para verificação do endpoint POST /webhook"
+    }
+  }
